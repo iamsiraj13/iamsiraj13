@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&fontAlign=50)
+![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&fontAlign=50](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hi%20There&fontAlign=50&reversal=false&fontColor=red&fontSize=120&animation=scaleIn))
 # 👋 Hi, I'm Sirajul Islam
 
 🎯 **Frontend Web Developer** | 💻 React.js Enthusiast  
