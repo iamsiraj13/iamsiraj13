@@ -16,7 +16,7 @@
 - **Tools:** Git, GitHub, Postman, Vercel, Firebase
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,next,redux,nodejs,express,mongodb)](https://skillicons.dev)
 
 ## 🚀 My Projects
 
