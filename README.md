@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hi%20There&fontAlign=50&reversal=false&fontColor=red&fontSize=120&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Hi%20There&fontAlign=50&reversal=false&fontColor=red&fontSize=80&animation=scaleIn&stroke=2&desc=Javascipt%20Developer%20Lives%20Here&descAlignY=68)
 # 👋 Hi, I'm Sirajul Islam
 
 🎯 **Frontend Web Developer** | 💻 React.js Enthusiast  
