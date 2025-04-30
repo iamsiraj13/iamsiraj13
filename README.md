@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&fontAlign=50)
 # 👋 Hi, I'm Sirajul Islam
 
 🎯 **Frontend Web Developer** | 💻 React.js Enthusiast  
